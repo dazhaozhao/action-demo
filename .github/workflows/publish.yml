@@ -23,7 +23,7 @@ jobs:
         with:
           host: ${{ secrets.HOST }}
           username: ${{ secrets.HOST_USERNAME }}
-          key: ${{ secrets.SSH_RSA }}
+          password: ${{ secrets.HOST_PASS }}
           port: ${{ secrets.HOST_PORT }}
           script: |
             docker stop $(docker ps --filter ancestor=${{ secrets.DOCKER_REGISTRY }} -q)
