@@ -1,5 +1,5 @@
 <script setup lang="ts"></script>
 
-<template><div></div></template>
+<template><div>this is main page</div></template>
 
 <style scoped></style>
