@@ -1,3 +1,13 @@
-# vue-template
+# github action vue docker test
 
-vue template
+## setup
+
+```shell
+npm run dev
+```
+
+## build
+
+```shell
+npm run build
+```
