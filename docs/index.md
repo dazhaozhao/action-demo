@@ -1,3 +1,5 @@
-# Front Tools
+# 🪜SomeFrontTool
 
-一些前端轮子
+::: tip
+This is Simplified documentation for some tools
+:::

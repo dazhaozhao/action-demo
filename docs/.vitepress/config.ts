@@ -1,6 +1,6 @@
 export default {
     description: '🪜SomeFrontTool',
-
+    title: '🪜SomeFrontTool',
     themeConfig: {
         siteTitle: '🪜SomeFrontTool',
 

@@ -1,5 +1,9 @@
 # CKEditor 5
 
+## docs
+
+[Vue.js 3+ rich text editor component](https://ckeditor.com/docs/ckeditor5/latest/installation/getting-started/frameworks/vuejs-v3.html#using-es6-modules)
+
 ## install
 
 -   step1
@@ -38,3 +42,10 @@ const editorConfig = ref({})
     </div>
 </template>
 ```
+
+## preview
+
+<script setup>
+import ckeditor5 from './ckeditor5.vue'
+</script>
+<ckeditor5/>
