@@ -45,7 +45,4 @@ const editorConfig = ref({})
 
 ## preview
 
-<script setup>
-import ckeditor5 from './ckeditor5.vue'
-</script>
-<ckeditor5/>
+![editor5](./editor.png)
