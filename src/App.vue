@@ -1,7 +1,9 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import Cesium from './cesium.vue'
+</script>
 
 <template>
-    <div>this is main page</div>
+    <Cesium />
 </template>
 
 <style scoped></style>
